@@ -4,5 +4,6 @@ streamlit-folium>=0.15.0
 pandas>=2.2.0
 numpy>=2.0.0
 matplotlib>=3.7.0
+streamlit-autorefresh>=1.0.0
 rich>=10.14.0
 setuptools>=70.0.0
